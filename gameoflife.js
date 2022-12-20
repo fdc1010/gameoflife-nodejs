@@ -144,7 +144,7 @@ const mainSolution = () => {
 
     // Get node arguments
     for(i in args){
-        if(isNaN(args[i])) state_file_path = args[i]   
+        if(typeof args[i] === 'string' && isNaN(args[i])) state_file_path = args[i]   
         else if(!isNaN(args[i])) generations = args[i]
     }
 
