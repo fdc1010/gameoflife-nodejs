@@ -60,4 +60,6 @@ Printing! 9
 Time to complete:
 1 hour
 
-[![Watch the video](https://github.com/fdc1010/gameoflife-nodejs/blob/master/gameoflife.gif)](https://youtu.be/zJiMsQc7ULY)
+img src="https://github.com/fdc1010/gameoflife-nodejs/blob/master/gameoflife.gif" width="2400px" />
+
+[Watch Video Demo](http://www.youtube.com/watch?v=zJiMsQc7ULY)
