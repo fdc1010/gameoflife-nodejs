@@ -44,7 +44,7 @@ Printing! 10
 
 
 </pre>
-Note: after printing grid then clear console or overwrite current display with new state / new grid
+Note: after printing grid then clear console or overwrite current display with new state / new grid <br />
 Below is the final output if all generations are successful
 <pre>
 Output:
