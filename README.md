@@ -19,7 +19,7 @@ For example:
 $ node gameoflife.js initial_state.txt 10
 </pre>
 
-Will run the simulation 1000 generations, starting with the state encoded in
+Will run the simulation 10 generations, starting with the state encoded in
 initial_state.txt
 
 Game Of Life Exercise 2
