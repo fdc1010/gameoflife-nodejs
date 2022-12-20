@@ -29,8 +29,9 @@ the shell so as to create an animation.
 
 Example Output
 This is the last output of the script for some 5x5 board. " " blank space signifies living cells.
-Output:
 <pre>
+Output:
+
 $ node gameoflife.js initial_state.txt 10
 
 Solving! 9
@@ -44,8 +45,9 @@ Printing! 10
 </pre>
 Note: after printing grid then clear console or overwrite current display with new state / new grid
 Below is the final output if all generations are successful
-Output:
 <pre>
+Output:
+
 $ node gameoflife.js initial_state.txt 9
 
 Done!
@@ -57,8 +59,10 @@ Printing! 9
 
 </pre>
 
+<pre>
 Time to complete:
 1 hour
+</pre>
 
 <img src="https://github.com/fdc1010/gameoflife-nodejs/blob/master/gameoflife.gif" width="2400px" />
 
