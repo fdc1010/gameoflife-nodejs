@@ -160,7 +160,6 @@ const mainSolution = () => {
                                 await printGrid(result,`Solving! ${counter++}`)      
                                 return result 
                             })
-                            .catch(err => console.log(err))
                 i++
             }while(i < generations)
             

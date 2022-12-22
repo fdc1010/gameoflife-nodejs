@@ -68,4 +68,4 @@ Time to complete:
 
 <img src="https://github.com/fdc1010/gameoflife-nodejs/blob/master/gameoflife.gif" width="2400px" />
 
-[Watch Video Demo](http://www.youtube.com/watch?v=zJiMsQc7ULY)
+[Watch Video Demo](http://www.youtube.com/watch?v=EV2S2MexAKk)
